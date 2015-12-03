@@ -18,8 +18,7 @@ namespace GADS2014M06InfnetGrid04.AulaRevisao.ConslApp
             walllace.Endereco = "mora mal";
             var wTelefones = new List<Telefone> {new Telefone {Cliente = walllace, Digito = "8080808"}};
             walllace.Telefones = wTelefones;
-
-
+            
             Console.WriteLine(walllace.Telefones.First().Digito);
 
             walllace.Anda();
