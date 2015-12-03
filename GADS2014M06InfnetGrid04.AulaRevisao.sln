@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Domain", "4 - Domain", "{7BE04372-7F44-4B79-923C-EA7E909E2E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GADS2014M06InfnetGrid04.AulaRevisao.Domain", "GADS2014M06InfnetGrid04.AulaRevisao.Domain\GADS2014M06InfnetGrid04.AulaRevisao.Domain.csproj", "{49D49F65-1699-4BAD-BB8E-88103E50F119}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{DAD23C43-30A2-48EA-B86B-A6024CFED5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GADS2014M06InfnetGrid04.AulaRevisao.ConslApp", "GADS2014M06InfnetGrid04.AulaRevisao.ConslApp\GADS2014M06InfnetGrid04.AulaRevisao.ConslApp.csproj", "{56DAB3DF-44CC-4940-8C3D-C3B847F83BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D49F65-1699-4BAD-BB8E-88103E50F119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D49F65-1699-4BAD-BB8E-88103E50F119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D49F65-1699-4BAD-BB8E-88103E50F119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D49F65-1699-4BAD-BB8E-88103E50F119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DAB3DF-44CC-4940-8C3D-C3B847F83BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DAB3DF-44CC-4940-8C3D-C3B847F83BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DAB3DF-44CC-4940-8C3D-C3B847F83BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DAB3DF-44CC-4940-8C3D-C3B847F83BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49D49F65-1699-4BAD-BB8E-88103E50F119} = {7BE04372-7F44-4B79-923C-EA7E909E2E41}
+		{56DAB3DF-44CC-4940-8C3D-C3B847F83BA3} = {DAD23C43-30A2-48EA-B86B-A6024CFED5F3}
+	EndGlobalSection
+EndGlobal
